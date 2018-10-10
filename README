@@ -1,10 +1,9 @@
 -----------------------------------------50 Points Project -----------------------------------
 
 Team Members:
-Malvika Modi(SBU ID: 111483303)
-Shraddha Sharma(SBU ID: 111511484)
-Nikitha Kandru(SBU ID: 111492921)
-
+Malvika Modi
+Shraddha Sharma
+Nikitha Kandru
 ------------------------------------------ Features -------------------------------------------
 
 1. Warm up:: Kernel printf, Timer, Keyboard, IDT, handlers
@@ -73,10 +72,6 @@ Syscall supported:
 Reference OS (x64):
 1. HelenOS-0.5.0
 2. Shovelos
-
-
-
-
 
 * The provided Makefile:
   1) builds a kernel
